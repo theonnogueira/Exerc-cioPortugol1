@@ -1,2 +1,2 @@
-# Exerc-cioPortugol1
+# ExercicioPortugol01
 Portugol 
